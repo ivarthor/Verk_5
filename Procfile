@@ -1,0 +1,1 @@
+web: python ./verk_5.py $PORT
