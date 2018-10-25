@@ -6,7 +6,7 @@ from bottle import *
 def index():
      return """
         <h2>Verkefni 5</h2>
-        <p><a href="/form">asdf</a></p>
+        <p><a href="/form">Verkefni 5</a></p>
         """
 
 @route("/form")
